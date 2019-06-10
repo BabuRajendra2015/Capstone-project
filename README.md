@@ -32,4 +32,4 @@ Readme.md – readme details about the project
 
 #blog post
 The blog post for this project is available at
-https://medium.com/@baburajendra2015/sparkify-music-app-customer-churn-data-analysis-and-prediction-by-pyspark-5996ffb0a6eb
+https://medium.com/@baburajendra2015/sparkify-music-app-customer-churn-data-analysis-and-prediction-by-pyspark-e66a97de88c5?postPublishedType=initial
